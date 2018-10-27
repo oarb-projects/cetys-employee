@@ -1,0 +1,15 @@
+{
+  "name": "distribuidos",
+  "version": "1.0.0",
+  "description": "cloud native npm es como apt-get y yum fork from webpage para hacer una variante en lugar de npm install dependiendo de la licencia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscar rosete",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
